@@ -1,6 +1,6 @@
-[![BCH compliance](https://bettercodehub.com/edge/badge/UCC-Programacion3/01-Recursividad?branch=master)](https://bettercodehub.com/)
+[![BCH compliance](https://bettercodehub.com/edge/badge/UCC-Programacion3/01-Recursividad-rleandroruiz?branch=master)](https://bettercodehub.com/)
 
-[![Build Status](https://travis-ci.org/UCC-Programacion3/01-Recursividad.svg?branch=master)](https://travis-ci.org/UCC-Programacion3/01-Recursividad)
+[![Build Status](https://travis-ci.org/UCC-Programacion3/01-Recursividad-rleandroruiz.svg?branch=master)](https://travis-ci.org/UCC-Programacion3/01-Recursividad-rleandroruiz)
 
 ## Ejercicio N°1.
 Implemente una función para potencias enteras con recursividad.
