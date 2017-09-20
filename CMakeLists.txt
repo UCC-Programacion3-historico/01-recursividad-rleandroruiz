@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 11)
 # Agrego todos los test.
 add_subdirectory(test)
 
-set(SOURCE_FILES_01 01_Potencia/main.cpp 01_Potencia/potencia.cpp)
+set(SOURCE_FILES_01 01_Potencia/main.cpp 01_Potencia/potencia.cpp 06_Repaso/OpMatematicas.cpp)
 add_executable(01_Potencia ${SOURCE_FILES_01})
 
 set(SOURCE_FILES_02 02_Sumatoria/main.cpp 02_Sumatoria/sumatoria.cpp)
