@@ -1,6 +1,7 @@
 #ifndef CALCULOS_H
 #define CALCULOS_H
 
+#include <iostream>
 
 unsigned int cociente(unsigned int a, unsigned int b);
 unsigned int resto(unsigned int a, unsigned int b);

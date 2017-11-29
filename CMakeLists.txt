@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 11)
 # Agrego todos los test.
 add_subdirectory(test)
 
-set(SOURCE_FILES_01 01_Potencia/main.cpp 01_Potencia/potencia.cpp 06_Repaso/OpMatematicas.cpp)
+set(SOURCE_FILES_01 01_Potencia/main.cpp 01_Potencia/potencia.cpp)
 add_executable(01_Potencia ${SOURCE_FILES_01})
 
 set(SOURCE_FILES_02 02_Sumatoria/main.cpp 02_Sumatoria/sumatoria.cpp)
@@ -21,5 +21,5 @@ add_executable(04_MCD ${SOURCE_FILES_04})
 set(SOURCE_FILES_05 05_Digitos/main.cpp 05_Digitos/digitos.cpp 05_Digitos/digitos.h)
 add_executable(05_Digitos ${SOURCE_FILES_05})
 
-#set(SOURCE_FILES_06 06_Tiempo/main.cpp)
-#add_executable(06_Tiempo  ${SOURCE_FILES_06})
+set(SOURCE_FILES_06 06_Repaso/OpMatematicas.cpp)
+add_executable(06_Repaso  ${SOURCE_FILES_06})
